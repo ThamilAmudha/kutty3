@@ -1,4 +1,4 @@
-a=int(input())
+p3=int(input())
 b=list(map(int,input().split()))
-for x in range(len(b)):
-print(b[x],x)
+for i in range(len(b)):
+print(b[i],i)
